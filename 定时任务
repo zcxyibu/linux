@@ -1,0 +1,8 @@
+crontab -l
+01 02 * * * /home/daedb/cctest/timeset/settime.sh >> /home/daedb/cctest/timeset/settime.log 2>&1 </dev/null &
+
+cat settime.sh
+#!/bin/bash`
+su - daedb -c "python /home/daedb/cctest/timeset/settime.py  &"
+
+cat settime.py
