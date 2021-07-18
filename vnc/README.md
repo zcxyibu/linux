@@ -1,4 +1,4 @@
-vnc用来远程连接登录linux机器图形化页面
+vnc用来远程连接登录linux机器图形化页面\
 vnc linux界面  
 `yum groupinstall GNOME Desktop Graphical Administration Tools`
 
