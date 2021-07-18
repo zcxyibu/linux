@@ -6,3 +6,4 @@ cat settime.sh
 su - daedb -c "python /home/daedb/cctest/timeset/settime.py  &"
 
 cat settime.py
+https://github.com/zcxyibu/python/blob/95c7db163c97c3a72c0fe89eeb93222bb9272843/pg%E8%A1%A8%E5%A4%A9%E6%95%B0%E5%8A%A01.py
